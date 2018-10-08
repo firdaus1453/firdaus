@@ -1,3 +1,3 @@
 # firdaus
 The First Time For Git
-This Code edited By Zidniryi
+This Code edited By Zidniryi tes
